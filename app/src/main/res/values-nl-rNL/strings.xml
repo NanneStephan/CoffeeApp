@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Gewoon Java</string>
+    <string name="name">Naam</string>
+    <string name="toppings">Toppings</string>
+    <string name="shit">Stront</string>
+    <string name="whipped_cream">Opgeklopte Melk</string>
+    <string name="chocolate">Chocolade</string>
+    <string name="quantity">Kwaliteit</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="order">Bestelling</string>
+    <string name="order_summary_name">Naam: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Voeg opgeklopte melk Toe<xliff:g example="true" id="addWhippedCream">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Voeg Chocolade Toe<xliff:g example="true" id="addChocolate">%b</xliff:g></string>
+    <string name="order_summary_shit">Voeg Stront Toe?<xliff:g example="true" id="addShit">%b</xliff:g></string>
+    <string name="order_summary_quantity">Hoeveelheid <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_price">Totaal: <xliff:g example="$10" id="price">%s</xliff:g></string>
+    <string name="thank_you">Bedankt!</string>
+    <string name="order_summary_email_subject">Gewoon Java Bestelling<xliff:g example="Amy" id="name">%s</xliff:g></string>
+</resources>
